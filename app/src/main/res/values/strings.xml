@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DownloadManagerDemo</string>
+
+    <string name="fileProvider_authorities">DownloadManagerDemo</string>
+</resources>

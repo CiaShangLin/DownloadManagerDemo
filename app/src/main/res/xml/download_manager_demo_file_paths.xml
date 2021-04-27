@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--這個也不好理解我看官網是寫取得以下路徑的暫時訪問權的樣子-->
+<paths>
+    <external-path
+        name="external-path"
+        path="." />
+    <cache-path
+        name="cache-path"
+        path="." />
+    <files-path
+        name="files-path"
+        path="." />
+</paths>
+
