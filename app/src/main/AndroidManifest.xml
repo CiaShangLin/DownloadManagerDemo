@@ -9,7 +9,7 @@
     <!--這行有需告才能自動幫你安裝下載的APK-->
     <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
 
-    <!--Android4.4在讀取需的時候需要權限,但是因為低於6.0所以只需要宣告不需要去要求-->
+    <!--Android6.0以下在讀取需的時候需要權限,但是因為低於6.0所以只需要宣告不需要去要求-->
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 
 
