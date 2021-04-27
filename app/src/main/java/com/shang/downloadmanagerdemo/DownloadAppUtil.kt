@@ -22,6 +22,14 @@ object DownloadAppUtil {
         fun downloadError(exception: Exception)
     }
 
+    /**
+     * Context = 上下文
+     * ApkName = 下載檔案名稱命名
+     * ApkUrl = 下載檔案的網址
+     * Title = 通知欄的標題
+     * Description = 通知欄的內容
+     * DownloadListener = 下載狀態監聽
+     */
     fun downloadApp(
         context: Context,
         apkName: String,
